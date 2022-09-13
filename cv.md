@@ -21,3 +21,17 @@ Im studied in BSUIR. But left after two years of study. And now i am again inter
 - Delphi 7, C, Assembler 
 - Git, GitHub
 
+
+### Code example:
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+
+### My projects:
+
+####  [CV](https://Rodion006.github.io/rsschool-cv/cv)
+

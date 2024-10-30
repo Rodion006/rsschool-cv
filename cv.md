@@ -6,6 +6,7 @@
 + Phone: +375299168874(Belarus)
 + E-mail: rodik007zhodino@gmail.com
 + Discord: Rodion(@Rodion006)
+
 ### About myself:
 
   My name is Rodion. I am live in Zhodino but in future i want to work and live in Minsk.
